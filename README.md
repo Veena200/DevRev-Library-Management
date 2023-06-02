@@ -21,9 +21,7 @@ Build a simple library management page where <br>
  -HTML <br>
  -CSS <br>
  -JAVASCRIPT <br>
- -LOCALHOST <br>
  -vscode <br>
- -spyder <br>
  -Github
  
 <br>
@@ -40,7 +38,7 @@ Netlify (www.netlify.com) <br />
 
   <br />  <br />
   #Link to Project Demonstration LIVE: <br />
-  https://devrev-library-management.netlify.app/
+  
 
 
   
