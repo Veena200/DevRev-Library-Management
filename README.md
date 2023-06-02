@@ -1,5 +1,5 @@
-# Simple-library-management
-DevRev's Simple library management page using HTML, CSS, JavaScript
+# Library-Management-System
+Simple library management page using HTML, CSS, JavaScript
 <br>
 <br>
 <br>
