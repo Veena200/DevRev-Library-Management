@@ -39,8 +39,7 @@ Netlify (www.netlify.com) <br />
 
 
   <br />  <br />
-  #Link to Project Demonstration LIVE: <br />
-  
-
+  #Link to Project Demonstration: <br />
+  https://simple-library-management.netlify.app/
 
   
