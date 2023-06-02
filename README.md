@@ -33,8 +33,10 @@ Netlify (www.netlify.com) <br />
 
  <br />  <br />
  # Screenshots
- ![1](https://user-images.githubusercontent.com/87519174/206407084-547902a8-7f6a-4971-b906-7397483b0f99.png)<br>
-![2](https://user-images.githubusercontent.com/87519174/206407093-86a04ab1-9fa5-4514-b414-37b34f039fc0.png)
+ ![Screenshot (9)](https://github.com/Veena200/DevRev-Library-Management/assets/83696712/ef906ddd-630d-4e6f-b7e9-5de9ada1354e)
+![Screenshot (10)](https://github.com/Veena200/DevRev-Library-Management/assets/83696712/7d05a5d4-dd7d-4256-a807-55dedec3a1b8)
+![Screenshot (11)](https://github.com/Veena200/DevRev-Library-Management/assets/83696712/6a41c472-fcad-4870-a5bf-a062594e190d)
+
 
   <br />  <br />
   #Link to Project Demonstration LIVE: <br />
